@@ -1,4 +1,4 @@
-# `darkdetect` API
+# `darkdetect_angr` API
 
 The centerpiece of the API is the `Listener` class.
 Members of this class are:

@@ -1,4 +1,4 @@
-# `darkdetect` Examples
+# `darkdetect_angr` Examples
 
 ### Listening with the `listener` method
 ```python

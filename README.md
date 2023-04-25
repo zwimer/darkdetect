@@ -12,7 +12,7 @@ The main application of this package is to detect the Dark mode from your GUI Py
 
 The preferred channel is PyPI:
 ```bash
-pip install darkdetect
+pip install darkdetect_angr
 ```
 
 Alternatively, you are free to vendor directly a copy of Darkdetect in your app. Further information on vendoring can be found [here](https://medium.com/underdog-io-engineering/vendoring-python-dependencies-with-pip-b9eb6078b9c0).
@@ -42,7 +42,7 @@ It's that easy.
 
 ### Listener
 
-`darkdetect` exposes a listener API which is far more efficient than busy waiting on `theme()` changes.
+`darkdetect_angr` exposes a listener API which is far more efficient than busy waiting on `theme()` changes.
 This API is exposed primarily via a `Listener` class.
 Detailed API documentation can be found [here](docs/api.md).
 For a quick overview: the `darkdetect.Listener` class exposes the following methods / members:

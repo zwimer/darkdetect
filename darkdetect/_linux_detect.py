@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-#  Copyright (C) 2019 Alberto Sottile, Eric Larson
+#  Copyright (C) 2019 Zachary Wimer, Alberto Sottile, Eric Larson
 #
 #  Distributed under the terms of the 3-clause BSD License.
 #-----------------------------------------------------------------------------

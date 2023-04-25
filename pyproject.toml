@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 # Project Config
 
 [project]
-name = "darkdetect-angr"
+name = "darkdetect_angr"
 description = "Detect OS Dark Mode from Python"
 readme = "README.md"
 requires-python = ">=3.6"
@@ -27,8 +27,8 @@ classifiers = [
 text = "BSD-3-Clause"
 
 [[project.authors]]
-name = "Alberto Sottile"
-email = "asottile@gmail.com"
+name = "Zachary Wimer"
+email = "zwimer@gmail.com"
 
 [project.urls]
 homepage = "http://github.com/zwimer/darkdetect"
