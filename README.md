@@ -1,4 +1,4 @@
-# Darkdetect
+# Darkdetect-angr
 
 This package allows to detect if the user is using Dark Mode on:
 
