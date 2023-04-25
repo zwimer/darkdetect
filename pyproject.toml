@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 # Project Config
 
 [project]
-name = "darkdetect"
+name = "darkdetect-angr"
 description = "Detect OS Dark Mode from Python"
 readme = "README.md"
 requires-python = ">=3.6"
@@ -31,8 +31,8 @@ name = "Alberto Sottile"
 email = "asottile@gmail.com"
 
 [project.urls]
-homepage = "http://github.com/albertosottile/darkdetect"
-download = "http://github.com/albertosottile/darkdetect/releases"
+homepage = "http://github.com/zwimer/darkdetect"
+download = "http://github.com/zwimer/darkdetect/releases"
 
 [project.optional-dependencies]
 macos-listener = [ "pyobjc-framework-Cocoa; platform_system == 'Darwin'" ]
